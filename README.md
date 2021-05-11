@@ -1,1 +1,2 @@
-# linux_-behavior
+# linux_behavior
+## Linuxの挙動を確認する
